@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=majidhameed)
+![](https://komarev.com/ghpvc/?username=majidhameed&style=plastic&label=Views)
 
 ### Hi there 👋
 
