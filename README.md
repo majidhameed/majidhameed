@@ -2,6 +2,9 @@
 
 ### Hi there 👋
 
+![Majid Hameed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=majidhameed&count_private=true&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=majidhameed&langs_count=99&layout=compact)
+
 ![](https://hit.yhype.me/github/profile?user_id=2404686)
 
 <!--
