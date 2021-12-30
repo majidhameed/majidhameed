@@ -1,6 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=majidhameed&style=plastic&label=Views)
 
-### Hi there 👋
+### Hello World! 👋
 
 ![Majid Hameed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=majidhameed&count_private=true&show_icons=true&hide=issues,contribs,stars)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=majidhameed&langs_count=99&layout=compact)
