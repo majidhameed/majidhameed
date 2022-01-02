@@ -2,7 +2,7 @@
 
 ### Hello World! 👋
 
-![Majid Hameed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=majidhameed&count_private=true&show_icons=true&hide=issues,contribs,stars)
+![Majid Hameed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=majidhameed&count_private=true&show_icons=true&hide=issues,contribs)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=majidhameed&langs_count=99&layout=compact)
 ![trophy](https://github-profile-trophy.vercel.app/?username=majidhameed)
 
