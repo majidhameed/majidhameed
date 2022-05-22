@@ -10,8 +10,9 @@
 ![trophy](https://github-profile-trophy.vercel.app/?username=majidhameed)
 -->
 
-![](https://github.com/majidhameed/github-stats/blob/master/generated/overview.svg)
+<!-- ![](https://github.com/majidhameed/github-stats/blob/master/generated/overview.svg)
 ![](https://github.com/majidhameed/github-stats/blob/master/generated/languages.svg)
+-->
 
 ![](https://hit.yhype.me/github/profile?user_id=2404686)
 
