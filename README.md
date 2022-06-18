@@ -4,6 +4,8 @@
 <!-- ![Quote](https://github-readme-quotes.herokuapp.com/quote) -->
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal)
 
+![Majid Hameed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=majidhameed&count_private=true&show_icons=true&hide=issues,contribs)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=majidhameed&langs_count=99&layout=compact)
 <!--
 ![Majid Hameed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=majidhameed&count_private=true&show_icons=true&hide=issues,contribs)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=majidhameed&langs_count=99&layout=compact)
